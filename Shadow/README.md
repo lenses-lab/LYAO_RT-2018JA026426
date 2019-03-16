@@ -1,6 +1,6 @@
 ## This is the working directory for Shadow.
 
-The Shadow code takes a time input and pointing information and outputs helpful geometry parameters including shadow altitude.
+The Shadow code takes a time input and pointing information and outputs helpful geometry parameters including shadow altitude. The Shadow code belongs to Jeff Percival (jwp@astro.wisc.edu).
 
 Files that might be contained here:
 ```
