@@ -12,21 +12,6 @@
 # Outstanding Python Modules: datetime, pandas
 # Last Updated: 06-01-2018
 ####################################################################################################
-# HOW TO USE:
-# 
-# from ShadowParser import *
-#
-# ## Set-up Shadow Inputs
-# observer = "pbo"
-# time = dt2shd(datetime.utcnow())
-#
-# ## Run Shadow Code
-# shadow_dataframe = shadow(observer,time)
-#
-# ## Create LYAO input file
-# shd2los(shadow_dataframe,"inputs_los.dat")
-#
-####################################################################################################
 # BEGIN CODE 
 ####################################################################################################
 
