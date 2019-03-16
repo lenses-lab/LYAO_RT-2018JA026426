@@ -6,11 +6,11 @@ Files that might be contained here:
 ```
 README
 shadow.exe (for Windows)
-shadow.x86_64 (for Linux)
-shadow_prep.x86_64 (for Linux)
+shadow (for Linux)
+shadow_prep (for Linux)
 output.txt
 ```
 
 * See ```LYAO_inputsbuilder.py``` for helpful functions
-* Also run ```./shadow.x86_64 -help``` for more info
+* Also run ```./shadow -help``` for more info
 * If shadow executable permission is denied, try running ```chmod u+x shadow*```
