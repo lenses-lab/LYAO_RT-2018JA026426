@@ -1,5 +1,3 @@
-A repository of executables and python classes based on the Bishop (1999) radiative transport codes used in the Gallant et al. (2019) JGR paper (2018JA026426).
-
 ### /LYAO_RT-python-lib [(link)](https://github.com/lenses-lab/LYAO_RT-2018JA026426/tree/master/LYAO_RT-python-lib)
 This includes several python classes and scripts for running, parsing, and plotting LYAO_RT.
 
