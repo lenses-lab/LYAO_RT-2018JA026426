@@ -1,0 +1,5 @@
+echo "--------SCRIPT test_rt--------"
+./test_rt < infile.dat
+
+echo "--------SCRIPT test_los--------"
+./test_los
