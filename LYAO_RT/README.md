@@ -1,19 +1,22 @@
-This is the working directory for LYAO_RT.
+## This is the working directory for LYAO_RT.
 
 Files that should be contained here:
-	Text file "README"
-	Executable "test_rt"
-	Executable "test_los"
-	Input file "infile.dat"
-	Input file "inputs_los.dat"
-	Shell Script "testscript"
-	Output file "H_alpha.source"
-	Output file "hab_los.dat"
-	Output file "formatted.source"
+```
+README
+test_rt
+test_los
+infile.dat
+inputs_los.dat
+testscript
+H_alpha.source
+hab_los.dat
+formatted.source
+```
 
-"infile.dat" is a necessary input to "test_rt"
-"inputs_los.dat" is a necessary input to "test_los"
-To change inputs, overwrite them, but do not rename them within this directory.
+### Notes
+* ```infile.dat``` is a necessary input to the executable ```test_rt```
+* ```inputs_los.dat``` is a necessary input to the executable ```test_los```
+* ```testscript``` is a shell script that will run ```test_rt``` and then ```test_los``` in series
+* To change inputs, overwrite them, do not rename them.
+* Outputs files will be overwritten after every run.
 
-To run the entire code, run "testscript"
-Outputs files will be overwritten after every run.
