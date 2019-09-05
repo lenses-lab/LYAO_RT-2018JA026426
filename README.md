@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/176000947.svg)](https://zenodo.org/badge/latestdoi/176000947)
+
 ### /LYAO_RT-python-lib [(link)](https://github.com/lenses-lab/LYAO_RT-2018JA026426/tree/master/LYAO_RT-python-lib)
 This includes several python classes and scripts for running, parsing, and plotting LYAO_RT.
 
